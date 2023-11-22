@@ -1,0 +1,11 @@
+C:\Users\ucenik\source\repos\ProtekloITekuceVrijemeEdiKomic\bin\Debug\ProtekloITekuceVrijemeEdiKomic.exe.config
+C:\Users\ucenik\source\repos\ProtekloITekuceVrijemeEdiKomic\bin\Debug\ProtekloITekuceVrijemeEdiKomic.exe
+C:\Users\ucenik\source\repos\ProtekloITekuceVrijemeEdiKomic\bin\Debug\ProtekloITekuceVrijemeEdiKomic.pdb
+C:\Users\ucenik\source\repos\ProtekloITekuceVrijemeEdiKomic\obj\Debug\ProtekloITekuceVrijemeEdiKomic.csproj.AssemblyReference.cache
+C:\Users\ucenik\source\repos\ProtekloITekuceVrijemeEdiKomic\obj\Debug\ProtekloITekuceVrijemeEdiKomic.csproj.SuggestedBindingRedirects.cache
+C:\Users\ucenik\source\repos\ProtekloITekuceVrijemeEdiKomic\obj\Debug\ProtekloITekuceVrijemeEdiKomic.Form1.resources
+C:\Users\ucenik\source\repos\ProtekloITekuceVrijemeEdiKomic\obj\Debug\ProtekloITekuceVrijemeEdiKomic.Properties.Resources.resources
+C:\Users\ucenik\source\repos\ProtekloITekuceVrijemeEdiKomic\obj\Debug\ProtekloITekuceVrijemeEdiKomic.csproj.GenerateResource.cache
+C:\Users\ucenik\source\repos\ProtekloITekuceVrijemeEdiKomic\obj\Debug\ProtekloITekuceVrijemeEdiKomic.csproj.CoreCompileInputs.cache
+C:\Users\ucenik\source\repos\ProtekloITekuceVrijemeEdiKomic\obj\Debug\ProtekloITekuceVrijemeEdiKomic.exe
+C:\Users\ucenik\source\repos\ProtekloITekuceVrijemeEdiKomic\obj\Debug\ProtekloITekuceVrijemeEdiKomic.pdb
